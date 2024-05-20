@@ -1,0 +1,8 @@
+Sea Turtle Conservation AI Project
+
+EEL3872 - AI Fundamentals
+
+
+Abstract
+
+This project details the creation and application of "Cammy," an AI chatbot, across a series of experiments aimed at enhancing sea turtle conservation efforts. Initiated as part of an educational endeavor to bridge the knowledge gap regarding sea turtle conservation, Cammy was developed to interact with the public, providing essential information and fostering engagement. The first phase of Cammy's training involved equipping the chatbot with the ability to answer common questions about sea turtles, utilizing a dataset of 50 inquiries sourced from the community. Subsequent phases expanded Cammy's capabilities to include predicting the weight of sea turtles from visual measurements obtained through stereo camera imagery and identifying sea turtle species from user-submited photos. These functionalities were integrated using advanced machine learning techniques, including AutoKeras Regression for weight prediction and image recognition algorithms for species identification. Throughout the project, challenges such as data biases, model overfi􀆫ng, and the ethical use of copyrighted images were addressed. The culmination of these experiments demonstrated Cammy's potential as a powerful tool not only for public education and engagement but also as a supportive asset in scientific research and conservation strategies, significantly advancing the goals of the Sea Turtle Conservation Team. This initiative highlights how AI can be leveraged to make a meaningful impact on wildlife conservation, particularly by enhancing public awareness and participation in preservation efforts.
